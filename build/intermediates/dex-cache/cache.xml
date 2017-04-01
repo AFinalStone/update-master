@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\update-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\AndroidStudioProject\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_147312aab49e9885c0e2df46ff01e32d6df827b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\update-master\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="800a1d7c973b1e5aa35c83e3c428ea2a0c78bafe">
+        <dex dex="D:\AndroidStudioProject\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_726c40afe91d95ae2bb569c0014bddfb033c8149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\update-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83eb3a7e490c0b10746732bd83dd732e3df3a7dc">
+        <dex dex="D:\AndroidStudioProject\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47c6958a82685799910214f52b487e5ad6c8f9d3\classes.dex" />
+    </item>
+
+</items>

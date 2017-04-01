@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:16:22-81
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:17:22-82
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:18:22-75
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:20:22-68
+application
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Administrator\.android\build-cache\849a5f76dd1004c996a97dc65d292b92c9bfc7b5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\cf271c47f99647c30ac851a7a615b2f78539bbf7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0c876b36c20bbb78cd114f5470c62941d6c3bbc4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9f747712442a761bf7a955c84c2ab516aa522480\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\0df32ac96ce768cc7a807b370b80a2c0346978a9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\71907ed2ce9b5f954ed5159563c034caa802c082\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\d4d8c461d9ce8aa9d79622eecf1aaa23924a23d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\0563e00291f6a240e5ec50ee7f62babe412a0d36\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\25736ba15299336c20fd2a74bbd5716ccc12d776\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\8df495261406f966227602888cc41e73c53f1bc5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\910251f266f57be91e991d2dcc673164a04ae9c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\06e5eccceaf385008da470966c57aab15c34a656\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\e5761a94ead6787af23ffcf9703a4bbd59fd71e6\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:25:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:26:9-35
+	android:allowBackup
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:27:9-40
+activity#ezy.demo.update.MainActivity
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:28:19-47
+activity#ezy.demo.update.UpdateActivity
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Administrator\.android\build-cache\849a5f76dd1004c996a97dc65d292b92c9bfc7b5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\cf271c47f99647c30ac851a7a615b2f78539bbf7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0c876b36c20bbb78cd114f5470c62941d6c3bbc4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9f747712442a761bf7a955c84c2ab516aa522480\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\0df32ac96ce768cc7a807b370b80a2c0346978a9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4980eb2dbe32cf018b0c7c95fa9239af33c67ae0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\71907ed2ce9b5f954ed5159563c034caa802c082\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\d4d8c461d9ce8aa9d79622eecf1aaa23924a23d3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\0563e00291f6a240e5ec50ee7f62babe412a0d36\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\25736ba15299336c20fd2a74bbd5716ccc12d776\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\8df495261406f966227602888cc41e73c53f1bc5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\910251f266f57be91e991d2dcc673164a04ae9c3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\06e5eccceaf385008da470966c57aab15c34a656\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\e5761a94ead6787af23ffcf9703a4bbd59fd71e6\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\cf271c47f99647c30ac851a7a615b2f78539bbf7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\update-master\app\src\main\AndroidManifest.xml
+provider#ezy.boost.update.UpdateFileProvider
+ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:14:13-70
+	android:grantUriPermissions
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:17:13-19:61
+	android:resource
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:19:17-58
+	android:name
+		ADDED from [com.github.czy1121:library:1.0.5] D:\AndroidStudioProject\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Administrator\.android\build-cache\849a5f76dd1004c996a97dc65d292b92c9bfc7b5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\cf271c47f99647c30ac851a7a615b2f78539bbf7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\0c876b36c20bbb78cd114f5470c62941d6c3bbc4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\9f747712442a761bf7a955c84c2ab516aa522480\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\0df32ac96ce768cc7a807b370b80a2c0346978a9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\4980eb2dbe32cf018b0c7c95fa9239af33c67ae0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\71907ed2ce9b5f954ed5159563c034caa802c082\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\d4d8c461d9ce8aa9d79622eecf1aaa23924a23d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\0563e00291f6a240e5ec50ee7f62babe412a0d36\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\25736ba15299336c20fd2a74bbd5716ccc12d776\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\8df495261406f966227602888cc41e73c53f1bc5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\910251f266f57be91e991d2dcc673164a04ae9c3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\06e5eccceaf385008da470966c57aab15c34a656\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Administrator\.android\build-cache\849a5f76dd1004c996a97dc65d292b92c9bfc7b5\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Administrator\.android\build-cache\849a5f76dd1004c996a97dc65d292b92c9bfc7b5\output\AndroidManifest.xml:23:9-47
